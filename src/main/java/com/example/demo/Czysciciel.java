@@ -1,5 +1,5 @@
 package com.example.demo;
-import com.example.demo.entity.Connections;
+import com.example.demo.component.Connections;
 import com.example.demo.entity.TempInbox;
 import com.example.demo.repo.TempInboxRep;
 import org.springframework.scheduling.annotation.Scheduled;
